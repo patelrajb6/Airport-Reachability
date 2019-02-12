@@ -9,7 +9,7 @@ The commands for this project are:
   #       
   t <int1> <int2>    //Depth first search to check if the we can go from 1 airport to other
   r <int>     //resize adjacency list by <int>
-  i <int1> <int2>    //insert path from airport 1 to other
+  i <int1> <int2>     //insert path from airport 1 to other
   d <int1> <int2>    //delete path from 1 to 2
   l                 //shows the adjacency list
   f <filename>    //takes input of file and runs commands on them
