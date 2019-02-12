@@ -3,7 +3,7 @@ Program which uses Graph Data structure implemented using adjacency list
 
 We first insert airports into the adjaceny list and do various functions
 
-The commands for this project are:
+The commands for this project are: 
   q      // quit the program
   
   ?      //help with commands
